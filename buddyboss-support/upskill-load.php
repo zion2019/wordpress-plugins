@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: BuddyBoss Runwise
- * Plugin URI:  https://upskill.pro
- * Description: Runwise针对buddypress拓展
- * Author:      Runwise Dev
- * Author URI:  https://runwise.co
+ * Plugin Name: BuddyBoss support
+ * Plugin URI:  http://zlld.top
+ * Description: 针对buddypress拓展
+ * Author:      Zion
+ * Author URI:  http://zlld.top
  * Version:     1.0.0
  * License:     GPLv2
  */
